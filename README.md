@@ -16,15 +16,13 @@ The ATM Management System is a Spring Boot application designed to manage user a
   - Apply a 10% deduction fee for inter-bank transfers.
 - **Security**
   - JWT authentication for secure access.
-- **Documentation**
-  - API documentation using Swagger.
+
 
 ## Technology Stack
 
 - **Backend**: Spring Boot
 - **Database**: MySQL (AWS RDS)
 - **Security**: JWT, Spring Security
-- **Testing**: Mockito
 
 
 ## Getting Started
